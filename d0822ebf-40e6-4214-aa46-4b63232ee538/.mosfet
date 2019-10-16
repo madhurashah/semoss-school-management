@@ -1,8 +1,0 @@
-{
-  "layout": "Grid",
-  "rdbmsId": "d0822ebf-40e6-4214-aa46-4b63232ee538",
-  "hidden": false,
-  "insightName": "Show first 500 records from admin",
-  "recipe": "AddPanel(0);Panel(0)|SetPanelView(\"visualization\");CreateFrame(grid).as([FRAME]);Database(\"02a1ac40-a208-4774-ad41-b2882fed4529\") | SelectTable(admin) | Limit(500) | Import();Frame() | QueryAll() | AutoTaskOptions(panel\u003d[\"0\"], layout\u003d[\"GRID\"]) | Collect(500);",
-  "engineId": "02a1ac40-a208-4774-ad41-b2882fed4529"
-}
