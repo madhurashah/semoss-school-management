@@ -1,0 +1,1 @@
+with(aa31f8552d6a44a96867f13f383f3dfb2, {ROOT <- 'D:/xampp/htdocs/SEMOSS_v4.0.0_x64/SEMOSS_v4.0.0_x64/semosshome/db/School Management__02a1ac40-a208-4774-ad41-b2882fed4529/version/8ea676c5-319a-4f41-bd39-1d9be7e368da';rm(list=ls())});
